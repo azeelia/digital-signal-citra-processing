@@ -27,6 +27,7 @@ digital-signal-citra-processing/
 │
 ├── README.md
 ├── Operasi_Dasar_pada_Sinyal_Citra.ipynb
+├── Tugas Eksperimen Operasi Dasar pada Sinyal.pdf
 ```
 
 ## 📊 Experiment Summary
